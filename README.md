@@ -42,7 +42,7 @@ Nuestras respectivas responsabilidades para este proyecto son las siguientes:
     
     * Cobrar a los compradores una tarifa del 5.9% sobre el precio de compra.
     * Los vendedores recibirán el valor completo de la subasta, sin cargos adicionales.
-    * Los servicios de recogida, lavado y entrega tendrán sus tarifas correspondientes, que serán cubiertas por los compradores.
+    * Las tarifas de los servicios de recogida, lavado y entrega serán responsabilidad de quien solicite el servicio.
 5. **Fomento de Servicios y Alianzas Adicionales**
     
     Promoveremos servicios adicionales como recogidas, lavados y entregas ofreciendo una comisión del 25% por estos servicios. Todos los costos relacionados con alianzas y comisiones por servicios adicionales serán cubiertos por nuestra empresa.
