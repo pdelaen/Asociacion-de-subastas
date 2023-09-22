@@ -20,11 +20,6 @@ Nuestras respectivas responsabilidades para este proyecto son las siguientes:
 * Encargarte de la recaudación del Impuesto sobre el Valor Añadido (IVA) y la verificación de las identidades de compradores y vendedores.
 * Recibir el pago por los vehículos de los compradores y distribuir los pagos a los vendedores y mi comisión.
 
-<div align="center">
-
-<img  src="https://uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/646375ed9f42af409c55f316_main%20gif%20optimized.gif"  alt="Alt Text"  style="width: 100%; height: auto;">
-</div>
-
 **IVA (Impuesto sobre el Valor Añadido):** Se aplicará un IVA de acuerdo con las leyes fiscales aplicables.
 
 ## Detalles de la Propuesta
@@ -61,6 +56,10 @@ Nuestras respectivas responsabilidades para este proyecto son las siguientes:
     
     Nuestra plataforma facilitará el registro de vehículos y los pagos tanto para compradores como para vendedores. Implementaremos un sistema seguro de verificación de documentos para que los usuarios puedan cargar documentos esenciales directamente en nuestro servidor.
     
+<div align="center">
+
+<img  src="https://uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/646375ed9f42af409c55f316_main%20gif%20optimized.gif"  alt="Alt Text"  style="width: 100%; height: auto;">
+</div>
 
 ### Tablas Financieras
 
